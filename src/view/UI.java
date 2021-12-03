@@ -60,7 +60,8 @@ public class UI {
 		// code.
 		intro = "";
 		intro += "=============================\n";
-		intro += "Wecome to Dotify Audio Player!\n";
+		intro += "Wecome to Dotify Audio Player\n";
+		intro += "The BEST Audio Player in the World!\n";
 		intro += "=============================\n";
 		// intro is printed once it has been completed.
 		System.out.println(intro);
